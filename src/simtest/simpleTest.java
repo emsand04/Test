@@ -29,7 +29,7 @@ import coppelia.remoteApi;
 // then start simulation, and run this program.
 //
 // IMPORTANT: for each successful call to simxStart, there
-// should be a corresponding call to simxFinish at the end!
+// should be a corresponding call to simxFinish at the end! asdasdasdasdasdasdsdasd
 
 public class simpleTest
 {
